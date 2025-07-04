@@ -1,4 +1,4 @@
-// find the k-th characterin a string gam
+// find the k-th characterin a string game 1
 #include <iostream>
 #include <vector>
 #include <string>
